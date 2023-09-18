@@ -1,6 +1,6 @@
 async function getUser(username) {
 
-      const accesToken = "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";
+      const accesToken = "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";
       const apiUrl = `https://api.github.com/users/${username}`;
 
       // créer un objet d'en-têtes avec le jeton d'authentification
